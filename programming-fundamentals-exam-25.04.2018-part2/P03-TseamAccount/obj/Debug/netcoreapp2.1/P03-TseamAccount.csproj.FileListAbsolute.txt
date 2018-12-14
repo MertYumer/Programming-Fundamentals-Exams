@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\bin\Debug\netcoreapp2.1\P03-TseamAccount.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part2\P03-TseamAccount\obj\Debug\netcoreapp2.1\P03-TseamAccount.pdb

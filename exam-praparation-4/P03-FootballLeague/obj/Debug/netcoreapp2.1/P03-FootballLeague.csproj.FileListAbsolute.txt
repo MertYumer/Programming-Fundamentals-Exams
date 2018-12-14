@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\bin\Debug\netcoreapp2.1\P03-FootballLeague.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\bin\Debug\netcoreapp2.1\P03-FootballLeague.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\bin\Debug\netcoreapp2.1\P03-FootballLeague.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\bin\Debug\netcoreapp2.1\P03-FootballLeague.dll
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\bin\Debug\netcoreapp2.1\P03-FootballLeague.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.dll
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P03-FootballLeague\obj\Debug\netcoreapp2.1\P03-FootballLeague.pdb

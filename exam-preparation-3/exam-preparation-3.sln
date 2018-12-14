@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-RageQuit", "P03-RageQuit\P03-RageQuit.csproj", "{27A07C37-74DA-4199-ABF4-B9DFDEB61D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04-Files", "P04-Files\P04-Files.csproj", "{5B88569F-40ED-4607-A411-89E794F1E70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A07C37-74DA-4199-ABF4-B9DFDEB61D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A07C37-74DA-4199-ABF4-B9DFDEB61D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A07C37-74DA-4199-ABF4-B9DFDEB61D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A07C37-74DA-4199-ABF4-B9DFDEB61D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B88569F-40ED-4607-A411-89E794F1E70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B88569F-40ED-4607-A411-89E794F1E70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B88569F-40ED-4607-A411-89E794F1E70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B88569F-40ED-4607-A411-89E794F1E70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {780DC4E7-8740-433A-9F11-DC94C89C7A59}
+	EndGlobalSection
+EndGlobal

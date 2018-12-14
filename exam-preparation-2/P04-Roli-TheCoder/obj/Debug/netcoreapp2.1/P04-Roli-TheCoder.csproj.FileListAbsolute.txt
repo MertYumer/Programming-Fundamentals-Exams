@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\bin\Debug\netcoreapp2.1\P04-Roli-TheCoder.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\bin\Debug\netcoreapp2.1\P04-Roli-TheCoder.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\bin\Debug\netcoreapp2.1\P04-Roli-TheCoder.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\bin\Debug\netcoreapp2.1\P04-Roli-TheCoder.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\bin\Debug\netcoreapp2.1\P04-Roli-TheCoder.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P04-Roli-TheCoder\obj\Debug\netcoreapp2.1\P04-Roli-TheCoder.pdb

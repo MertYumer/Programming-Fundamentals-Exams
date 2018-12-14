@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\bin\Debug\netcoreapp2.1\P03-HornetAssault.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\bin\Debug\netcoreapp2.1\P03-HornetAssault.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\bin\Debug\netcoreapp2.1\P03-HornetAssault.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\bin\Debug\netcoreapp2.1\P03-HornetAssault.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\bin\Debug\netcoreapp2.1\P03-HornetAssault.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P03-HornetAssault\obj\Debug\netcoreapp2.1\P03-HornetAssault.pdb

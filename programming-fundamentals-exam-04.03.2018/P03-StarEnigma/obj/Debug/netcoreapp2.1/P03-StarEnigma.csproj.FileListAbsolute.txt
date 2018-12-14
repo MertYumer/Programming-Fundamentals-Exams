@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\bin\Debug\netcoreapp2.1\P03-StarEnigma.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P03-StarEnigma\obj\Debug\netcoreapp2.1\P03-StarEnigma.pdb

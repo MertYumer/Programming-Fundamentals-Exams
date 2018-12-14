@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\bin\Debug\netcoreapp2.1\P01-AnonymousVox.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\bin\Debug\netcoreapp2.1\P01-AnonymousVox.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\bin\Debug\netcoreapp2.1\P01-AnonymousVox.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\bin\Debug\netcoreapp2.1\P01-AnonymousVox.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\bin\Debug\netcoreapp2.1\P01-AnonymousVox.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P01-AnonymousVox\obj\Debug\netcoreapp2.1\P01-AnonymousVox.pdb

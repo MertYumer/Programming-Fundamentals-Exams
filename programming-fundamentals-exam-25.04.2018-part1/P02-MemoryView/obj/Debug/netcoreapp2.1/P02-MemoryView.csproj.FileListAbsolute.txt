@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\bin\Debug\netcoreapp2.1\P02-MemoryView.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\bin\Debug\netcoreapp2.1\P02-MemoryView.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\bin\Debug\netcoreapp2.1\P02-MemoryView.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\bin\Debug\netcoreapp2.1\P02-MemoryView.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\bin\Debug\netcoreapp2.1\P02-MemoryView.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P02-MemoryView\obj\Debug\netcoreapp2.1\P02-MemoryView.pdb

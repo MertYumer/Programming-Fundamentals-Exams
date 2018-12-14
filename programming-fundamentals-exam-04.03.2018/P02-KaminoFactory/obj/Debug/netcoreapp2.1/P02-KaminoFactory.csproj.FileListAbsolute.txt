@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\bin\Debug\netcoreapp2.1\P02-KaminoFactory.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-04.03.2018\P02-KaminoFactory\obj\Debug\netcoreapp2.1\P02-KaminoFactory.pdb

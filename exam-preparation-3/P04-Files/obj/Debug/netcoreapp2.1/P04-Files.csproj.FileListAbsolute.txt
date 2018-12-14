@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\bin\Debug\netcoreapp2.1\P04-Files.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\bin\Debug\netcoreapp2.1\P04-Files.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\bin\Debug\netcoreapp2.1\P04-Files.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\bin\Debug\netcoreapp2.1\P04-Files.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\bin\Debug\netcoreapp2.1\P04-Files.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P04-Files\obj\Debug\netcoreapp2.1\P04-Files.csprojAssemblyReference.cache

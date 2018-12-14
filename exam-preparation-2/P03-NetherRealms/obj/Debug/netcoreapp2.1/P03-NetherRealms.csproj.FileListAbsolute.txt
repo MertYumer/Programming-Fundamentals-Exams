@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\bin\Debug\netcoreapp2.1\P03-NetherRealms.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\bin\Debug\netcoreapp2.1\P03-NetherRealms.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\bin\Debug\netcoreapp2.1\P03-NetherRealms.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\bin\Debug\netcoreapp2.1\P03-NetherRealms.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\bin\Debug\netcoreapp2.1\P03-NetherRealms.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-2\P03-NetherRealms\obj\Debug\netcoreapp2.1\P03-NetherRealms.pdb

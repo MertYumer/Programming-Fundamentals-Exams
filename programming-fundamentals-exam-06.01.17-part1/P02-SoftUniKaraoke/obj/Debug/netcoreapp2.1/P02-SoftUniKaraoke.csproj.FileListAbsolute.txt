@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\bin\Debug\netcoreapp2.1\P02-SoftUniKaraoke.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\bin\Debug\netcoreapp2.1\P02-SoftUniKaraoke.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\bin\Debug\netcoreapp2.1\P02-SoftUniKaraoke.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\bin\Debug\netcoreapp2.1\P02-SoftUniKaraoke.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\bin\Debug\netcoreapp2.1\P02-SoftUniKaraoke.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part1\P02-SoftUniKaraoke\obj\Debug\netcoreapp2.1\P02-SoftUniKaraoke.pdb

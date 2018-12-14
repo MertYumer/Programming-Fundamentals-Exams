@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\bin\Debug\netcoreapp2.1\P04-WinningTicket.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\bin\Debug\netcoreapp2.1\P04-WinningTicket.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\bin\Debug\netcoreapp2.1\P04-WinningTicket.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\bin\Debug\netcoreapp2.1\P04-WinningTicket.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\bin\Debug\netcoreapp2.1\P04-WinningTicket.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-06.01.17-part2\P04-WinningTicket\obj\Debug\netcoreapp2.1\P04-WinningTicket.pdb

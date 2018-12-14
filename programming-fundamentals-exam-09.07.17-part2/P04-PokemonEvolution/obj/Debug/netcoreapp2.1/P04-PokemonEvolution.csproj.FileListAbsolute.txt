@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\bin\Debug\netcoreapp2.1\P04-PokemonEvolution.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\bin\Debug\netcoreapp2.1\P04-PokemonEvolution.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\bin\Debug\netcoreapp2.1\P04-PokemonEvolution.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\bin\Debug\netcoreapp2.1\P04-PokemonEvolution.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\bin\Debug\netcoreapp2.1\P04-PokemonEvolution.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P04-PokemonEvolution\obj\Debug\netcoreapp2.1\P04-PokemonEvolution.pdb

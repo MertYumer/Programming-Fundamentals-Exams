@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\bin\Debug\netcoreapp2.1\P02-HornetComm.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\bin\Debug\netcoreapp2.1\P02-HornetComm.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\bin\Debug\netcoreapp2.1\P02-HornetComm.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\bin\Debug\netcoreapp2.1\P02-HornetComm.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\bin\Debug\netcoreapp2.1\P02-HornetComm.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part1\P02-HornetComm\obj\Debug\netcoreapp2.1\P02-HornetComm.pdb

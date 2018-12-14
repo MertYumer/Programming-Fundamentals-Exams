@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\bin\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P02-SoftUniCoursePlanning\obj\Debug\netcoreapp2.1\P02-SoftUniCoursePlanning.pdb

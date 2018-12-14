@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\bin\Debug\netcoreapp2.1\P01-ChoreWars.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\bin\Debug\netcoreapp2.1\P01-ChoreWars.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\bin\Debug\netcoreapp2.1\P01-ChoreWars.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\bin\Debug\netcoreapp2.1\P01-ChoreWars.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\bin\Debug\netcoreapp2.1\P01-ChoreWars.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-28.10.2018-part2\P01-ChoreWars\obj\Debug\netcoreapp2.1\P01-ChoreWars.pdb

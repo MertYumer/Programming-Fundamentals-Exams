@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\bin\Debug\netcoreapp2.1\P01-Hogswatch.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P01-Hogswatch\obj\Debug\netcoreapp2.1\P01-Hogswatch.pdb

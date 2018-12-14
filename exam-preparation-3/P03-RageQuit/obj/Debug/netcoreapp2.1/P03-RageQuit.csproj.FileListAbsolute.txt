@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\bin\Debug\netcoreapp2.1\P03-RageQuit.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\bin\Debug\netcoreapp2.1\P03-RageQuit.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\bin\Debug\netcoreapp2.1\P03-RageQuit.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\bin\Debug\netcoreapp2.1\P03-RageQuit.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\bin\Debug\netcoreapp2.1\P03-RageQuit.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.dll
+D:\Projects\Programming Fundamentals\Exams\exam-preparation-3\P03-RageQuit\obj\Debug\netcoreapp2.1\P03-RageQuit.pdb

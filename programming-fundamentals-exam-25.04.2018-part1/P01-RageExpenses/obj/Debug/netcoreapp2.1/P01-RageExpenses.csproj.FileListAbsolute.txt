@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\bin\Debug\netcoreapp2.1\P01-RageExpenses.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-25.04.2018-part1\P01-RageExpenses\obj\Debug\netcoreapp2.1\P01-RageExpenses.pdb

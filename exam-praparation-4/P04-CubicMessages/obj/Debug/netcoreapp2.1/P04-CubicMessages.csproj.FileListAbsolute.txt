@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\bin\Debug\netcoreapp2.1\P04-CubicMessages.deps.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\bin\Debug\netcoreapp2.1\P04-CubicMessages.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\bin\Debug\netcoreapp2.1\P04-CubicMessages.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\bin\Debug\netcoreapp2.1\P04-CubicMessages.dll
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\bin\Debug\netcoreapp2.1\P04-CubicMessages.pdb
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.dll
+D:\Projects\Programming Fundamentals\Exams\exam-praparation-4\P04-CubicMessages\obj\Debug\netcoreapp2.1\P04-CubicMessages.pdb

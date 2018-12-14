@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\bin\Debug\netcoreapp2.1\P02-Snowmen.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\bin\Debug\netcoreapp2.1\P02-Snowmen.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\bin\Debug\netcoreapp2.1\P02-Snowmen.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\bin\Debug\netcoreapp2.1\P02-Snowmen.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\bin\Debug\netcoreapp2.1\P02-Snowmen.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-05.01.2018\P02-Snowmen\obj\Debug\netcoreapp2.1\P02-Snowmen.pdb

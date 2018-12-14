@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\bin\Debug\netcoreapp2.1\P02-AnonymousCache.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\bin\Debug\netcoreapp2.1\P02-AnonymousCache.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\bin\Debug\netcoreapp2.1\P02-AnonymousCache.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\bin\Debug\netcoreapp2.1\P02-AnonymousCache.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\bin\Debug\netcoreapp2.1\P02-AnonymousCache.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-05.11.2017-pt2\P02-AnonymousCache\obj\Debug\netcoreapp2.1\P02-AnonymousCache.pdb

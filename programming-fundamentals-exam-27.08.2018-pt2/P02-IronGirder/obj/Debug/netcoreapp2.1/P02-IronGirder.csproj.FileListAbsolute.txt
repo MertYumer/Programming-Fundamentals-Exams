@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\bin\Debug\netcoreapp2.1\P02-IronGirder.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\bin\Debug\netcoreapp2.1\P02-IronGirder.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\bin\Debug\netcoreapp2.1\P02-IronGirder.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\bin\Debug\netcoreapp2.1\P02-IronGirder.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\bin\Debug\netcoreapp2.1\P02-IronGirder.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P02-IronGirder\obj\Debug\netcoreapp2.1\P02-IronGirder.pdb

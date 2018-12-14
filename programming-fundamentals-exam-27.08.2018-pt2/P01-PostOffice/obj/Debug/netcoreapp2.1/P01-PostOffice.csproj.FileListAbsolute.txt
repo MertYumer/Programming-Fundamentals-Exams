@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\bin\Debug\netcoreapp2.1\P01-PostOffice.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\bin\Debug\netcoreapp2.1\P01-PostOffice.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\bin\Debug\netcoreapp2.1\P01-PostOffice.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\bin\Debug\netcoreapp2.1\P01-PostOffice.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\bin\Debug\netcoreapp2.1\P01-PostOffice.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-27.08.2018-pt2\P01-PostOffice\obj\Debug\netcoreapp2.1\P01-PostOffice.pdb

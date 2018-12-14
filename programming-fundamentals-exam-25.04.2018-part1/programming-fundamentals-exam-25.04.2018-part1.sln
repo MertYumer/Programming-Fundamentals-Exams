@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01-RageExpenses", "P01-RageExpenses\P01-RageExpenses.csproj", "{7A0EF615-E56E-4143-A053-EB3DF738388C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02-MemoryView", "P02-MemoryView\P02-MemoryView.csproj", "{4969B816-9B7A-45E6-8520-02E543161E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A0EF615-E56E-4143-A053-EB3DF738388C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A0EF615-E56E-4143-A053-EB3DF738388C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A0EF615-E56E-4143-A053-EB3DF738388C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A0EF615-E56E-4143-A053-EB3DF738388C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4969B816-9B7A-45E6-8520-02E543161E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4969B816-9B7A-45E6-8520-02E543161E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4969B816-9B7A-45E6-8520-02E543161E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4969B816-9B7A-45E6-8520-02E543161E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F22C20A-A6D6-46EF-B906-AE7B278BFBA7}
+	EndGlobalSection
+EndGlobal

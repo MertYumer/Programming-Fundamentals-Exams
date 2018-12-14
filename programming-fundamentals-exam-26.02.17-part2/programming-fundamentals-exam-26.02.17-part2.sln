@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03-HornetAssault", "P03-HornetAssault\P03-HornetAssault.csproj", "{C561CCD4-8FD9-4D2C-8903-E23E32001603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04-HornetArmada", "P04-HornetArmada\P04-HornetArmada.csproj", "{DB798EB5-A136-418D-AC8C-A55EBD6B1804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C561CCD4-8FD9-4D2C-8903-E23E32001603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C561CCD4-8FD9-4D2C-8903-E23E32001603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C561CCD4-8FD9-4D2C-8903-E23E32001603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C561CCD4-8FD9-4D2C-8903-E23E32001603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB798EB5-A136-418D-AC8C-A55EBD6B1804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB798EB5-A136-418D-AC8C-A55EBD6B1804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB798EB5-A136-418D-AC8C-A55EBD6B1804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB798EB5-A136-418D-AC8C-A55EBD6B1804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8ACF46-0766-4AA6-BA79-A490674E9AF4}
+	EndGlobalSection
+EndGlobal

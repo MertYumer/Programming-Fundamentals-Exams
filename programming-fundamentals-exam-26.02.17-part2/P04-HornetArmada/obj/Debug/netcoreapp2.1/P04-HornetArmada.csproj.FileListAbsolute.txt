@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\bin\Debug\netcoreapp2.1\P04-HornetArmada.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\bin\Debug\netcoreapp2.1\P04-HornetArmada.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\bin\Debug\netcoreapp2.1\P04-HornetArmada.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\bin\Debug\netcoreapp2.1\P04-HornetArmada.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\bin\Debug\netcoreapp2.1\P04-HornetArmada.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-26.02.17-part2\P04-HornetArmada\obj\Debug\netcoreapp2.1\P04-HornetArmada.pdb

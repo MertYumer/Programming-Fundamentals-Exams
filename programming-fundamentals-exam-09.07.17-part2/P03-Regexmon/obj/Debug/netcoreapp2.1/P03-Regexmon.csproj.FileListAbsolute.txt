@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\bin\Debug\netcoreapp2.1\P03-Regexmon.deps.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\bin\Debug\netcoreapp2.1\P03-Regexmon.runtimeconfig.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\bin\Debug\netcoreapp2.1\P03-Regexmon.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\bin\Debug\netcoreapp2.1\P03-Regexmon.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\bin\Debug\netcoreapp2.1\P03-Regexmon.pdb
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.dll
+D:\Projects\Programming Fundamentals\Exams\programming-fundamentals-exam-09.07.17-part2\P03-Regexmon\obj\Debug\netcoreapp2.1\P03-Regexmon.pdb

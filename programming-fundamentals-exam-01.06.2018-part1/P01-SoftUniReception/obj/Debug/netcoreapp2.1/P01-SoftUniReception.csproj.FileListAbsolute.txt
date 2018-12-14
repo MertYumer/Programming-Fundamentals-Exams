@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\bin\Debug\netcoreapp2.1\P01-SoftUniReception.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\bin\Debug\netcoreapp2.1\P01-SoftUniReception.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\bin\Debug\netcoreapp2.1\P01-SoftUniReception.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\bin\Debug\netcoreapp2.1\P01-SoftUniReception.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\bin\Debug\netcoreapp2.1\P01-SoftUniReception.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-01.06.2018-part1\P01-SoftUniReception\obj\Debug\netcoreapp2.1\P01-SoftUniReception.pdb

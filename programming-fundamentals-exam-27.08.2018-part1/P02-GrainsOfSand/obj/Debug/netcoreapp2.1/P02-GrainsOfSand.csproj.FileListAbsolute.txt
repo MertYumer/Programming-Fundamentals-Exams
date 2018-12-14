@@ -1,0 +1,11 @@
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.deps.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.runtimeconfig.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.runtimeconfig.dev.json
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\bin\Debug\netcoreapp2.1\P02-GrainsOfSand.pdb
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.csprojAssemblyReference.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.csproj.CoreCompileInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.AssemblyInfoInputs.cache
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.AssemblyInfo.cs
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.dll
+D:\Projects\Programming Fundamentals\programming-fundamentals-exam-27.08.2018-part1\P02-GrainsOfSand\obj\Debug\netcoreapp2.1\P02-GrainsOfSand.pdb
